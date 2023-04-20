@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1681950167 source:c:\users\gonzalo\desktop\utn\laboratorio 2\poo\lista de tareas\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1681951116 source:c:\users\gonzalo\desktop\utn\laboratorio 2\poo\lista de tareas\main.cpp
+	<iostream>
+	"Menu.h"
+	"Lista.h"
+	"Fecha.h"
+	"Tarea.h"
+
+1681913715 source:c:\users\gonzalo\desktop\utn\laboratorio 2\poo\lista de tareas\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1681913406 c:\users\gonzalo\desktop\utn\laboratorio 2\poo\lista de tareas\fecha.h
+
+1681949535 source:c:\users\gonzalo\desktop\utn\laboratorio 2\poo\lista de tareas\tarea.cpp
+	<iostream>
+	"Tarea.h"
+	"string.h"
+
+1681947022 c:\users\gonzalo\desktop\utn\laboratorio 2\poo\lista de tareas\tarea.h
+	<iostream>
+	"Fecha.h"
+
+1681950858 c:\users\gonzalo\desktop\utn\laboratorio 2\poo\lista de tareas\lista.h
+	<iostream>
+	"Tarea.h"
+
+1681947097 source:c:\users\gonzalo\desktop\utn\laboratorio 2\poo\lista de tareas\menu.cpp
+	<iostream>
+	"Menu.h"
+	"Lista.h"
+	"Tarea.h"
+
+1681947097 c:\users\gonzalo\desktop\utn\laboratorio 2\poo\lista de tareas\menu.h
+	"Lista.h"
+
